@@ -19,12 +19,7 @@ body {
     'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-.team-1 {
-  text-align: center;
-  margin: 5%;
-}
-
-.team-2 {
+.team {
   text-align: center;
   margin: 5%;
 }
